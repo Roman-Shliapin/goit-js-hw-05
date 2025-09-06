@@ -43,6 +43,6 @@ const clients = [
   }
 ];
 
-console.log(getTotalBalanceByGender(clients, "male")); // 12053
+console.log(getTotalBalanceByGender(clients, "male")); /// 12053
 
 console.log(getTotalBalanceByGender(clients, "female")); // 8863
